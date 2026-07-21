@@ -18,7 +18,7 @@ def health():
     return jsonify({"status": "ok"}), 200
 
 
-@app.route("/add/<int:a>/<int:b>")
+@app.route("/add/<int(signed=True):a>/<int(signed=True):b>")
 def add(a, b):
     """Simple addition endpoint — easy to write tests for."""
     return jsonify({"result": a + b}), 200
