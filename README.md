@@ -2,14 +2,6 @@
 
 # 🚀 CI/CD Pipeline Demo
 
-**Automated Testing & Deployment with GitHub Actions, Flask & Render**
-
-[![CI/CD Pipeline](https://github.com/Parikshithurs>/CI-CD/actions/workflows/cicd.yml/badge.svg)](https://github.com/<Parikshithurs>/CI-CD/actions/workflows/cicd.yml)
-![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-3.0-000000?logo=flask&logoColor=white)
-![Render](https://img.shields.io/badge/Deployed%20on-Render-46E3B7?logo=render&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
-
 A minimal yet production-ready CI/CD pipeline that automatically **tests** and **deploys** a Flask REST API every time code is pushed to `main`.
 
 </div>
